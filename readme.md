@@ -9,13 +9,13 @@ formação oferecida pela oracle em parceria com a alura
 
 ### organização
 
-cursos divididos por dia e por tema — exercícios, desafios e experimentos
+- pastas divididas por cursos e exercícios/projetos respeitando a ordem das datas do curso.
+- desafios estão na pasta challenges.
 
-### propósito
+### objetivo
 
 manter o github ativo com prática real e acompanhar minha evolução com o tempo
 
 ---
 
-🧭 explore as pastas  
-📫 sugestões são bem-vindas
+🧭 explore
