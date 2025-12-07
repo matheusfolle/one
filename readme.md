@@ -5,11 +5,11 @@
 
 ### sobre
 
-formação oferecida pela oracle em parceria com a alura
+formação oferecida pela oracle em parceria com a alura, estou na segunda fase e segui pela trilha de ciência de dados
 
 ### organização
 
-- pastas divididas por cursos e exercícios/projetos respeitando a ordem das datas do curso.
+- pastas divididas por cursos e exercícios/projetos respeitando a ordem hierarquica do próprio curso.
 - desafios estão na pasta challenges.
 
 ### objetivo
@@ -18,4 +18,4 @@ manter o github ativo com prática real e acompanhar minha evolução com o temp
 
 ---
 
-🧭 explore
+🧭 explore! enjoy
