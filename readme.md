@@ -1,21 +1,30 @@
-<h1 align="center">oracle next education ☁️</h1>
-<p align="center"><em>desafios, aprendizados e pequenos passos diários</em></p>
+# Oracle Next Education ☁️
+
+> *Desafios, aprendizados e pequenos passos diários*
 
 ---
 
-### sobre
+## 📖 Sobre o Programa
 
-formação oferecida pela oracle em parceria com a alura, estou na segunda fase e segui pela trilha de ciência de dados
+Formação em Ciência de Dados oferecida pela Oracle em parceria com a Alura. Atualmente na segunda fase do programa, focando em desenvolvimento de habilidades analíticas e técnicas para o mercado de dados.
 
-### organização
+## 🗂️ Estrutura do Repositório
+```
+oracle-next-education/
+├── courses/           # Exercícios organizados por curso
+├── challenges/        # Desafios propostos pelo programa
+└── projects/          # Projetos práticos desenvolvidos
+```
 
-- pastas divididas por cursos e exercícios/projetos respeitando a ordem hierarquica do próprio curso.
-- desafios estão na pasta challenges.
+**Organização:**
+- Pastas divididas por cursos seguindo a hierarquia oficial do programa
+- Desafios centralizados em `challenges/`
+- Nomenclatura clara refletindo o conteúdo de cada módulo
 
-### objetivo
+## Objetivo
 
-manter o github ativo com prática real e acompanhar minha evolução com o tempo
+Manter repositório ativo com prática constante, documentando evolução técnica e construindo portfólio real para transição de carreira.
 
 ---
 
-🧭 explore! enjoy
+**🧭 Explore e acompanhe a jornada!**
